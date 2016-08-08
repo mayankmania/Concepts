@@ -1,0 +1,9 @@
+K:\OOPS\OOPS\bin\Debug\OOPS.exe
+K:\OOPS\OOPS\bin\Debug\OOPS.pdb
+K:\OOPS\OOPS\obj\Debug\OOPS.csprojResolveAssemblyReference.cache
+K:\OOPS\OOPS\obj\Debug\OOPS.exe
+K:\OOPS\OOPS\obj\Debug\OOPS.pdb
+K:\OOPS\OOPS\bin\Debug\Patterns.dll
+K:\OOPS\OOPS\bin\Debug\Patterns.pdb
+K:\Concepts\OOPS\OOPS\obj\Debug\OOPS.exe
+K:\Concepts\OOPS\OOPS\obj\Debug\OOPS.pdb
